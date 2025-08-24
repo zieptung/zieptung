@@ -78,7 +78,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=zieptung&theme=dracula&no-frame=true&row=1&column=7&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.ryo-ma.vercel.app/?username=zieptung&theme=dracula&no-frame=true&row=1&column=7&margin-w=10&margin-h=15" />
 </p>
 
 ---
