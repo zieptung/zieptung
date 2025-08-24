@@ -78,14 +78,14 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zieptung&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=zieptung&theme=dracula&no-frame=true&row=1&column=7&margin-w=10&margin-h=15" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/di%E1%BB%87p-t%C3%B9ng-803266297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dieptung20102005@gmail.com">
