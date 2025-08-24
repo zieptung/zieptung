@@ -3,6 +3,10 @@
   <img src="https://i.ibb.co/Yf3R2GZ/github-banner.gif" width="100%" alt="Banner">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00f7ff,100:0077ff&text=ZIEPTUNG&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=C%2FC%2B%2B%20Developer%20%7C%20Unity%20Learner%20%7C%20Networking%20Explorer&descSize=20&descAlign=50&descAlignY=65" alt="ZIEPTUNG Banner"/>
+</p>
+
 <!-- Typing SVG Animation -->
 <p align="center">
   <a href="https://github.com/zieptung">
