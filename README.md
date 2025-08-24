@@ -21,8 +21,9 @@
 - 🎮 Have some experience with **Unity** and **basic game development**  
 - 🌱 Currently learning **game development** with Unity and C# for future and **computer networking**  
 - 🔧 Interested in **low-level programming**, **data structures**, and **algorithms**  
+- 🌐 Exploring **computer networking** and gaining some experience in **web development** using **HTML**, **CSS**, and **JavaScript**
 - 📫 Reach me at: **dieptung20102005@gmail.com**  
-- ⚡ Fun fact: I love writing **optimized, efficient** code 🤓  
+- ⚡ Fun fact: I love writing **optimized, efficient** code 🤓
 
 ---
 
