@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Mainly working with **C** and **C++** for system programming & competitive coding  
+- 💻 Mainly working with **C** and **C++** for system programming 
 - 🎮 Have some experience with **Unity** and **basic game development**  
 - 🌱 Currently learning **game development** with Unity and C# for future and **computer networking**  
 - 🔧 Interested in **low-level programming**, **data structures**, and **algorithms**  
