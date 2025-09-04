@@ -30,12 +30,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zieptung&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zieptung&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zieptung&show_icons=true&theme=tokyonight&count_private=true" alt="zieptung's GitHub stats" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=zieptung&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zieptung&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zieptung&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
