@@ -32,7 +32,7 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zieptung&show_icons=true&theme=tokyonight&count_private=true" alt="zieptung's GitHub stats" />
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=zieptung&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=zieptung&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
