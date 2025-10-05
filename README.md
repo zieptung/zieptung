@@ -4,8 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌐 **Web Development** — Using **HTML, CSS, JavaScript, PHP**  
-- ⚡ **Currently Exploring** — Learning **C / C++**
+- ⚡ **Currently Exploring** — Learning **C / C++** and **HTML, CSS, JavaScript, PHP** for web
 - 📡 **Networking** — Diving into **computer networking** concepts  
 - 🚀 **Mindset** — Always curious, always learning, always creating  
 
