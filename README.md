@@ -4,8 +4,8 @@
 
 ## 👨‍💻 About Me
 
-- ⚡ **Currently Exploring** — Learning **C / C++** and **HTML, CSS, JavaScript, PHP** for web
-- 📡 **Networking** — Diving into **computer networking** concepts  
+- ⚡ **Currently Exploring** — Learning **Backend Development with Node.js & Express.js**
+- 🧩 **Backend Focus** — Building **RESTful APIs** and trying understand **server-side architecture**
 - 🚀 **Mindset** — Always curious, always learning, always creating  
 
 ---
@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
