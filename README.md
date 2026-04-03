@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Diep Tung 👋</h1>
+<h1 align="center">Hi, I'm Diep Tung </h1>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- ⚡ **Currently Exploring** — Learning **Backend Development with Node.js & Express.js**
-- 🧩 **Backend Focus** — Building **RESTful APIs** and trying understand **server-side architecture**
-- 🚀 **Mindset** — Always curious, always learning, always creating  
+- **Currently Exploring** — Learning **Backend Development with Node.js & Express.js**
+- **Backend Focus** — Building **RESTful APIs** and trying understand **server-side architecture**
+- **Mindset** — Always curious, always learning, always creating  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zieptung&show_icons=true&theme=tokyonight&count_private=true" alt="zieptung's GitHub stats" />
@@ -35,7 +35,7 @@
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 <div align="center">
   <a href="mailto:dieptung20102005@gmail.com">
@@ -51,4 +51,4 @@
 
 ---
 
-⭐️ From [zieptung](https://github.com/zieptung)
+From [zieptung](https://github.com/zieptung)
