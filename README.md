@@ -4,9 +4,9 @@
 
 ## About Me
 
-- **Currently Exploring** — Learning **Backend Development with Node.js & Express.js**
-- **Backend Focus** — Building **RESTful APIs** and trying understand **server-side architecture**
-- **Mindset** — Always curious, always learning, always creating  
+- **Currently Exploring** — Learning **Backend Development with C# and ASP.NET Core**
+- **Backend Focus** — Building **RESTful APIs with ASP.NET Core** and understanding **server-side architecture**
+- **Mindset** — Always curious, always learning, always creating
 
 ---
 
