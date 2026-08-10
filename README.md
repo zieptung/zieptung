@@ -28,17 +28,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=zieptung&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zieptung&layout=compact&theme=github_dark&hide_border=true"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=zieptung&theme=github-dark-blue&hide_border=true"
     height="180"
   />
